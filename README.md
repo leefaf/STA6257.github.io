@@ -1,3 +1,4 @@
-# STA6257.github.io
+# This file contains the following R codes:
 
-This is our Repository file for STA 6257
+1. **Tidyverse.R** : Introduction to Tidyverse and data management using R.
+2. **NormalLinearModels.R**: Fit Normal Linear regression, CIs, Diganostics, ANOVA, Weighted Regression, Predictions.
